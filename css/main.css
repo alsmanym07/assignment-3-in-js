@@ -1,0 +1,43 @@
+
+*{
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "PT Sans Caption", sans-serif;
+}
+body {
+    background-color: #75345a;
+}
+
+
+.bookmark-body h2 {
+    font-family: "Righteous", cursive;
+    font-size: 25px;
+    background-image: linear-gradient(to right, #3ca55c, #b5ac49);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.fw-bolder {
+    font-weight: bolder ;
+}
+
+.btn-submit {
+    background-color: #da971c;
+    color: #fff;
+}
+
+.btn-delete {
+    background-color: #eb1d36;
+    color: #fff;
+}
+.btn-visit {
+    background-color: #9eb23b;
+    color: #fff;
+}
+
+section h1 {
+    font-size: 50px;
+    font-family: "Pacifico", cursive;
+    color: #352e28;
+}
